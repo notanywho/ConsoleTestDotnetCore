@@ -1,0 +1,10 @@
+/Users/jozsefpinter/Data/DotNetAngTest/ConsoleTest/bin/Debug/netcoreapp2.0/ConsoleTest.deps.json
+/Users/jozsefpinter/Data/DotNetAngTest/ConsoleTest/bin/Debug/netcoreapp2.0/ConsoleTest.runtimeconfig.json
+/Users/jozsefpinter/Data/DotNetAngTest/ConsoleTest/bin/Debug/netcoreapp2.0/ConsoleTest.runtimeconfig.dev.json
+/Users/jozsefpinter/Data/DotNetAngTest/ConsoleTest/bin/Debug/netcoreapp2.0/ConsoleTest.dll
+/Users/jozsefpinter/Data/DotNetAngTest/ConsoleTest/bin/Debug/netcoreapp2.0/ConsoleTest.pdb
+/Users/jozsefpinter/Data/DotNetAngTest/ConsoleTest/obj/Debug/netcoreapp2.0/ConsoleTest.csproj.CoreCompileInputs.cache
+/Users/jozsefpinter/Data/DotNetAngTest/ConsoleTest/obj/Debug/netcoreapp2.0/ConsoleTest.AssemblyInfoInputs.cache
+/Users/jozsefpinter/Data/DotNetAngTest/ConsoleTest/obj/Debug/netcoreapp2.0/ConsoleTest.AssemblyInfo.cs
+/Users/jozsefpinter/Data/DotNetAngTest/ConsoleTest/obj/Debug/netcoreapp2.0/ConsoleTest.dll
+/Users/jozsefpinter/Data/DotNetAngTest/ConsoleTest/obj/Debug/netcoreapp2.0/ConsoleTest.pdb
